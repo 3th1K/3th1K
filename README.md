@@ -27,6 +27,10 @@ I'm a computer science graduate with a passion for full-stack development, cyber
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=3th1K&show_icons=true&theme=radical)
 
+## GitHub Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3th1k&theme=shades-of-purple)](https://git.io/streak-stats)
+
 ## Top Projects
 
 - [PayPals](https://github.com/3th1K/PayPals): LLVM-based project.
