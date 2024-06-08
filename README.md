@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mehedi Rahaman! 👋
 
-<!--
-**3th1K/3th1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a computer science graduate with a passion for full-stack development, cybersecurity, and database management. My expertise includes Dotnet, AspNet Web Api, C#, RabbitMQ, Docker, and Azure Pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various projects like `DigitalKhata` and `PayPals`.
+- 🌱 I’m currently learning Java Spring Boot, Android Development and Advanced Cybersecurity.
+- 💬 Ask me about Asp.NetCore, C# and Related Techs.
+- 📫 How to reach me: [mehedirahaman28@gmail.com](mailto:mehedirahaman28@gmail.com)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-rahaman-933575218)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011494309477)
+
+## Languages and Tools
+
+![Dotnet](https://img.shields.io/badge/Dotnet-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+
+## GitHub Stats
+
+![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=3th1K&show_icons=true&theme=radical)
+
+## Top Projects
+
+- [PayPals](https://github.com/3th1K/PayPals): LLVM-based project.
+- [TuneXtend](https://github.com/3th1K/TuneXtend): Extension application for music streaming apps.
+- [WeatherWise](https://github.com/3th1K/WeatherWise): Weather app using Dotnet MAUI.
+- [DigitalKhata-Api](https://github.com/3th1K/DigitalKhata-Api): API for managing debts.
+- [DigitalKhata-Ui](https://github.com/3th1K/DigitalKhata-Ui): Android app for expense management.
+- [P2PMessenger](https://github.com/3th1K/P2PMessenger): Secure peer-to-peer messaging system.
+
