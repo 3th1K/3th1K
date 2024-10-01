@@ -4,8 +4,8 @@
 
 I'm a computer science graduate with a passion for full-stack development, cybersecurity, and database management. My expertise includes Dotnet, AspNet Web Api, C#, RabbitMQ, Docker, and Azure Pipelines.
 
-- 🔭 I’m currently working on various projects like `DigitalKhata` and `PayPals`.
-- 🌱 I’m currently learning Java Spring Boot, Android Development and Advanced Cybersecurity.
+- 🔭 I’m currently working on various projects like `Ethik.Utility` and `OWE`.
+- 🌱 I’m currently exploring Advanced Dotnet, Android Development and Advanced Cybersecurity.
 - 💬 Ask me about Asp.NetCore, C# and Related Techs.
 - 📫 How to reach me: [mehedirahaman28@gmail.com](mailto:mehedirahaman28@gmail.com)
 
@@ -33,7 +33,7 @@ I'm a computer science graduate with a passion for full-stack development, cyber
 
 ## Top Projects
 
-- [PayPals](https://github.com/3th1K/PayPals): LLVM-based project.
+- [Ethik.Utility](https://github.com/3th1K/Ethik.Utility): Utility nuget packages.
 - [TuneXtend](https://github.com/3th1K/TuneXtend): Extension application for music streaming apps.
 - [WeatherWise](https://github.com/3th1K/WeatherWise): Weather app using Dotnet MAUI.
 - [DigitalKhata-Api](https://github.com/3th1K/DigitalKhata-Api): API for managing debts.
