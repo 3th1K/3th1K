@@ -1,4 +1,5 @@
 # Hi, I'm Mehedi Rahaman! 👋
+![](https://komarev.com/ghpvc/?username=3th1K&style=for-the-badge)
 
 ## About Me
 
@@ -25,11 +26,11 @@ I'm a computer science graduate with a passion for full-stack development, cyber
 
 ## GitHub Stats
 
-![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=3th1K&show_icons=true&theme=radical)
-
-## GitHub Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3th1k&theme=shades-of-purple)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3th1K&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 ## Top Projects
 
@@ -40,3 +41,10 @@ I'm a computer science graduate with a passion for full-stack development, cyber
 - [DigitalKhata-Ui](https://github.com/3th1K/DigitalKhata-Ui): Android app for expense management.
 - [P2PMessenger](https://github.com/3th1K/P2PMessenger): Secure peer-to-peer messaging system.
 
+ ## Contributions
+ 
+<div align="center">
+  
+  ![snake gif](https://github.com/3th1K/3th1K/blob/output/github-snake-dark.svg)
+</div>
+  
