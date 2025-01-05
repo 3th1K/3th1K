@@ -7,11 +7,11 @@
 I'm a computer science graduate with a passion for full-stack development, cybersecurity, and database management. My expertise includes Dotnet, AspNet Web Api, C#, RabbitMQ, Docker, and Azure Pipelines.
 
 - 🔭 I’m currently working on various projects like `Ethik.Utility` and `OWE`.
-- 🌱 I’m currently exploring Advanced Dotnet, Android Development and Advanced Cybersecurity.
+- 🌱 I’m currently exploring Advanced Dotnet, Android Development, and Advanced Cybersecurity.
 - 💬 Ask me about Asp.NetCore, C# and Related Techs.
 - 📫 How to reach me: [mehedirahaman28@gmail.com](mailto:mehedirahaman28@gmail.com)
 
-## Connect with Me
+## **Stalk Me Here**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-rahaman-933575218)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011494309477)
@@ -19,8 +19,7 @@ I'm a computer science graduate with a passion for full-stack development, cyber
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehedi.hehe/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@3th1k90)
 
-
-## Languages and Tools
+## **My Arsenal of Skills**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="45" height="45"/>
@@ -45,8 +44,7 @@ I'm a computer science graduate with a passion for full-stack development, cyber
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 </p>
 
-
-## GitHub Stats
+## **My Epic Stats (Obviously)**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -54,22 +52,22 @@ I'm a computer science graduate with a passion for full-stack development, cyber
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-## Top Projects
+## **Life-Changing Projects (Totally)**
 
-- [Ethik.Utility](https://github.com/3th1K/Ethik.Utility): Utility nuget packages.
-- [TuneXtend](https://github.com/3th1K/TuneXtend): Extension application for music streaming apps.
-- [WeatherWise](https://github.com/3th1K/WeatherWise): Weather app using Dotnet MAUI.
-- [DigitalKhata-Api](https://github.com/3th1K/DigitalKhata-Api): API for managing debts.
-- [DigitalKhata-Ui](https://github.com/3th1K/DigitalKhata-Ui): Android app for expense management.
-- [P2PMessenger](https://github.com/3th1K/P2PMessenger): Secure peer-to-peer messaging system.
+- [Ethik.Utility](https://github.com/3th1K/Ethik.Utility): Because who doesn’t love utility packages?
+- [TuneXtend](https://github.com/3th1K/TuneXtend): Turning music streaming apps into my playground.
+- [WeatherWise](https://github.com/3th1K/WeatherWise): Predicting the weather better than your local meteorologist.
+- [DigitalKhata-Api](https://github.com/3th1K/DigitalKhata-Api): Debt management for the forgetful.
+- [DigitalKhata-Ui](https://github.com/3th1K/DigitalKhata-Ui): Helping you remember where your money went.
+- [P2PMessenger](https://github.com/3th1K/P2PMessenger): Because you need a secure way to gossip.
 
- ## Contributions
- 
+
+## **Watch this snake feeding on my contributions**
+
 <div align="center">
-  
-  ![snake gif](https://github.com/3th1K/3th1K/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/3th1K/3th1K/blob/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-  
