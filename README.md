@@ -46,10 +46,12 @@ I'm a computer science graduate with a passion for full-stack development, cyber
 
 ## **My Epic Stats (Obviously)**
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3th1K&theme=merko&custom_title=Cool%20graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/3th1K)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=3th1K&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide=issues,contribs" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3th1K&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3th1K&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
 </div>
 
 ## **Life-Changing Projects (Totally)**
